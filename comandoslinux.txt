@@ -8,4 +8,5 @@ apt list --installed --> identifica oque esta instalado na nossa maquina
 
 Atualizar o SO e as versões dos pacotes ja instalados 
 shutdown o --> desligar a VM
+apt
 
